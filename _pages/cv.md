@@ -11,49 +11,31 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* Schooling from Ahlcon Public School, Mayur Vihar, Delhi
+* B.Tech, M.Tech in Mathematics and Computing, Indian Institute of Technology (BHU), Varanasi (Expected 2021)
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* October '17 - 
+  * Hypernym Discovery
+  * Exposure: Dependency paths, Attention based neural networks, Word embeddings
+  * Supervisor: Dr. A.K. Singh - Department of Computer Science and Engineering, IIT BHU Varanasi
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* August '17 - November '17
+  * State dependent bulk service queue with Markovian Arrival
+  * Exposure: Stochastic process, Markov Chain, Queueing Theory, Markov Arrival Process
+  * Supervisor: Dr. Anuradha Banerjee - Department of Mathematical Sciences, IIT BHU Varanasi
+  
+* August '17 - September '17
+  * Automatic Essay Grader
+  * Exposure: Deep learning, LSTM networks, CNN networks, Attention based neural networks 
+  * Supervisor: Dr. A.K. Singh - Department of Computer Science and Engineering, IIT BHU Varanasi
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Python
+* Machine learning libraries
+  * PyTorch
+  * scikit-learn
+  * NumPy, Pandas, Matplotlib
+* Git
