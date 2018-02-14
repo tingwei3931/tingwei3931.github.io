@@ -39,3 +39,4 @@ Skills
   * scikit-learn
   * NumPy, Pandas, Matplotlib
 * Git
+* Linux
