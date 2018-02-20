@@ -97,11 +97,11 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : https://www.linkedin.com/in/abhisheksharma0318/
+  linkedin         : abhisheksharma0318
   orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : https://stackoverflow.com/users/7085635/abhishek-sharma
+  stackoverflow    : 7085635/abhishek-sharma
   steam            :
   tumblr           :
   twitter          : 
@@ -181,7 +181,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-
+  projects:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -221,6 +223,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _projects
+  - scope:
+      path: ""
+      type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true 
   # _portfolio
   - scope:
       path: ""
