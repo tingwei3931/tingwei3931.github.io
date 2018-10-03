@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Abhishek Sharma"
-title_separator          : "-"
+title_separator          : "|"
 name                     : &name "Abhishek Sharma"
 description              : &description "Personal website"
 url                      : https://abhishek0318.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -48,14 +48,14 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification :
+google_site_verification : "756dRsQBHoebIk60J_NM5VD-aydkYA7OhjhEMV7Wzhc"
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &twitter abhish_eksharma
 facebook:
   username               :
   app_id                 :
@@ -66,25 +66,28 @@ og_image                 :  # Open Graph/Twitter default site image
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+links:
+    - "https://twitter.com/abhish_eksharma"
+    - "https://facebook.com/abhishek.sharma.0318"
+    - "https://www.linkedin.com/in/abhishek0318"
 
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  "google" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "UA-126909688-1"
 
 
 # Site Author
 author:
   name             : "Abhishek Sharma"
   avatar           : "profile.png"
-  bio              : "Machine learning enthusiast. Sophomore - Mathematics and Computing, IIT BHU Varanasi."
+  bio              : "Junior Undergraduate, Mathematics and Computing at IIT (BHU), Varanasi. Research Interest: NLP"
   location         : "Varanasi"
   employer         :
   googlescholar    : 
-  email            :
+  email            : "abhishek.sharma.mat16@iitbhu.ac.in"
   uri              :
   bitbucket        :
   codepen          :
@@ -104,7 +107,7 @@ author:
   stackoverflow    : 7085635/abhishek-sharma
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : abhish_eksharma 
   vine             :
   weibo            :
   xing             :
