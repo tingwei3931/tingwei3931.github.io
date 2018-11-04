@@ -82,7 +82,7 @@ analytics:
 # Site Author
 author:
   name             : "Abhishek Sharma"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "Junior Undergraduate, Mathematics and Computing at IIT (BHU), Varanasi. Research Interest: NLP"
   location         : "Varanasi"
   employer         :
@@ -229,7 +229,7 @@ defaults:
   # _projects
   - scope:
       path: ""
-      type: publications
+      type: projects
     values:
       layout: single
       author_profile: true
