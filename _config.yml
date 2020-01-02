@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter abhish_eksharma
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -67,47 +67,46 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
 links:
-    - "https://twitter.com/abhish_eksharma"
-    - "https://facebook.com/abhishek.sharma.0318"
-    - "https://www.linkedin.com/in/abhishek0318"
+    - "https://www.facebook.com/lim.tingwei.5"
+    - "https://www.linkedin.com/in/limtingwei/"
 
 
 # Analytics
 analytics:
   provider               :  "google" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : "UA-126909688-1"
+    tracking_id          : "G-6LVXRKZ2JW"
 
 
 # Site Author
 author:
-  name             : "Abhishek Sharma"
+  name             : "Lim Ting Wei"
   avatar           : "profile.jpg"
-  bio              : "4th year IDD student in Mathematics and Computing at IIT (BHU), Varanasi. Research Interest: NLP, RL"
-  location         : "Varanasi"
+  bio              : "Fresh Graduate from UOW KDU University Penang, Software Engineer in Intel Corporations."
+  location         : "Penang, Malaysia"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=9IO-8IQAAAAJ"
-  email            : "abhishek.sharma.mat16@iitbhu.ac.in"
+  googlescholar    : 
+  email            : "tingwei3931@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "abhishek.sharma.0318"
+  facebook         : "lim.tingwei.5"
   foursquare       :
-  github           : "abhishek0318"
+  github           : "tingwei3931"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : abhishek0318
+  linkedin         : limtingwei
   orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : 7085635/abhishek-sharma
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : abhish_eksharma 
+  twitter          : 
   vine             :
   weibo            :
   xing             :
