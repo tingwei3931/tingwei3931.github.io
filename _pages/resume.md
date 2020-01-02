@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Click here to see my resume.](https://abhishek0318.github.io/files/abhishek_sharma_resume.pdf).
+[Click here to see my resume.](https://tingwei3931.github.io/files/ltw.pdf).
