@@ -1,6 +1,6 @@
 ---
 title: "EssayScore: Automated Essay Scoring with Deep Learning (Final Year Project)"
-excerpt: "EssayScore is a web application that is designed to alleviate the burden of teachers in marking essays and to provide a platform for students to gain instant feedback for their essays. <br/><img src='/images/essayscore.png'>"
+excerpt: "EssayScore is a web application that is designed to alleviate the burden of teachers in marking essays and to provide a platform for students to gain instant feedback for their essays. <br/><br/><img src='/images/essayscore.png'>"
 collection: portfolio
 ---
 
