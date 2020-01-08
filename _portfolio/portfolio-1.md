@@ -1,7 +1,5 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "EssayScore: Automated Essay Scoring with Deep Learning (Final Year Project)."
+excerpt: "EssayScore is a web application that is designed to alleviate the burden of teachers in marking essays and to provide a platform for students to gain instant feedback for their essays. Implemented using Keras with TensorFlow backend for the model training and Flask microframework for the web application. <br/> From this project, I gained my first introduction into the world of deep learning and learnt how to write, train and deploy deep learning models using various tools such as Keras and TensorFlow. I also had my first experience in using long-short-term memory (LSTM) networks to model temporal dependencies in essay datasets. <img src='/images/essayscore.png'>"
 collection: portfolio
 ---
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
