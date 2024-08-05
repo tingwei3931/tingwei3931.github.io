@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is Ting Wei and I am a fresh graduate from UOW KDU University Penang with a Bachelor's Degree in Computer Science. My interest is in programming and building applications to solve problems. In particular, I have keen interest in deep learning especially reinforcement learning and its application in natural language processing (NLP). 
+Hi! My name is Lim Ting Wei and I am an experienced software engineer working in Intel Corporation. My interest is in programming and building applications to sovle problems. In particular, I have keen interest in back-end programming and automation with Python. I am also fluent in Javascript, C#, Java and many other languages. In my free time, I like to explore large language models (LLMs) and their applications.
 
-Having a thirst for knowledge, I picked up reading as by pastime hobby to satiate my hunger of learning beyond my horizon. My favorite books are 12 Rules for Life by Prof. Jordan Peterson and Sapiens: A Brief History of Humankind by Yuval Noah Harari.   
+Having a thirst for knowledge, I picked up reading as my pasttime hobby to satiate my hunger of learning beyond my horizon. My favourite genre include self-help books, classic literature and philosophy. My favourite books are Meditations by Marcus Aurelius and Crime and Punishment by Fyodor Dostovesky. 
